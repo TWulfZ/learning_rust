@@ -1,0 +1,6 @@
+[package]
+name = "cx1_1_match_patterns"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
